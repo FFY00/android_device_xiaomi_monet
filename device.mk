@@ -34,4 +34,4 @@ $(call inherit-product, device/xiaomi/monet-kernel/kernel.mk)
 endif
 
 # Inherit from vendor blobs
-$(call inherit-product, vendor/xiaomi/monet/apollopro-vendor.mk)
+$(call inherit-product, vendor/xiaomi/monet/monet-vendor.mk)
