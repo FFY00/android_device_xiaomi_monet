@@ -10,7 +10,7 @@
 DEVICE_PATH := device/xiaomi/monet
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := apollo,monet
+TARGET_OTA_ASSERT_DEVICE := monet
 
 # Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(DEVICE_PATH)/bluetooth/include
